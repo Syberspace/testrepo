@@ -1,8 +1,8 @@
 remote_theme: niklasbuschmann/contrast@v3.0
 
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
+title: "Research Results!"
+author: "Person One & Person Two"
+description: "This is some research we did"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
