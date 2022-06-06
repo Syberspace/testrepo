@@ -8,3 +8,7 @@ layout: page
 1. one
 1. two
 1. three
+
+
+there should be an image here  
+![gr supra lego](/assets/gr supgra.png)
