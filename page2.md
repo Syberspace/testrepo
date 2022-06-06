@@ -11,4 +11,4 @@ layout: page
 
 
 there should be an image here  
-![gr supra lego](/testrepo/assets/gr supgra.png)
+![gr supra lego](/testrepo/assets/gr supra.png)
