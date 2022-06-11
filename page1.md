@@ -10,7 +10,7 @@ and some text
 - two
 - three
 
-<details><summary><strong>Headline 1</strong></summary>
+<details><summary><h2>Headline 1</h2></summary>
 <p>defaults:
   - scope:
       path: "assets/img"</p>
